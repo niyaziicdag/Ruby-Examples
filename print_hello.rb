@@ -5,4 +5,4 @@ class Hello
 end
 
 hi=Hello.new
-hi.say_hello("Ruby")
+hi.say_hello("Neo")
